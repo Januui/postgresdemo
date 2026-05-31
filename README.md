@@ -1,1 +1,2 @@
 # postgresdemo
+#conda create -p venv python=3.13 -y
